@@ -1,2 +1,2 @@
 # Notes
-My study notes
+This repo is used to store all kinds of notes.
